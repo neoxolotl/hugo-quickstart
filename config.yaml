@@ -1,6 +1,29 @@
-baseURL: "http://hugo-quickstart-template.netlify.com"
-languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
-theme: "netlify-basic"
+# baseURL: "http://hugo-quickstart-template.netlify.com"
+# languageCode: "en-us"
+# title: "Netlify + Hugo Quickstart"
+# theme: "netlify-basic"
 
 
+
+baseURL: "https://neoxolotl.github.io/blog/ "
+languageCode: "es-es"
+title: "fsosa blog"
+theme: "papermod"  # Tema recomendado (ver más abajo)
+
+params:
+  author: "Fernando G. Sosa"
+  description: "A blog about all things technical."
+  defaultTheme: auto
+  disableThemeToggle: false
+
+menu:
+  main:
+    - name: Home
+      url: "/"
+      weight: 1
+    - name: Posts
+      url: "/posts/"
+      weight: 2
+    - name: About
+      url: "/about/"
+      weight: 3
