@@ -8,7 +8,7 @@
 baseURL: "https://neoxolotl.github.io/blog/ "
 languageCode: "es-es"
 title: "fsosa blog"
-theme: "papermod"  # Tema recomendado (ver más abajo)
+  #theme: "papermod"  # Tema recomendado (ver más abajo)
 
 params:
   author: "Fernando G. Sosa"
