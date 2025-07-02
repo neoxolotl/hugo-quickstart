@@ -1,8 +1,11 @@
 ---
-title: "Install_docker"
-date: 2025-07-02T01:44:11Z
+title: "Install Docker"
+date: 2025-07-02 05:02:23
 draft: true
 ---
+
+How Install Docker. 
+
 
 ```shell
 
@@ -21,5 +24,4 @@ newgrp docker
 ```
 
 Enjoy
-
 
