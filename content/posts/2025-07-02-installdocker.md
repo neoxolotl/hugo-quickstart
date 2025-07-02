@@ -1,7 +1,7 @@
 ---
 title: "Install Docker"
 date: 2025-07-02 05:02:23
-draft: true
+draft: false
 ---
 
 How Install Docker. 

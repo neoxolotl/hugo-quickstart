@@ -1,4 +1,26 @@
 baseURL: "http://hugo-quickstart-template.netlify.com"
 languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
-theme: "netlify-basic"
+  #title: "Netlify + Hugo Quickstart"
+  #theme: "netlify-basic"
+title = "fsosa blog"
+
+[params]
+  author = "Fernando G. Sosa"
+  description = "A blog about all things technical."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
