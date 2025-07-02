@@ -4,9 +4,6 @@ languageCode: "en-us"
   #theme: "netlify-basic"
 title = "fsosa blog"
 
-[params]
-  author = "Fernando G. Sosa"
-  description = "A blog about all things technical."
 
 [menu]
   [[menu.main]]
